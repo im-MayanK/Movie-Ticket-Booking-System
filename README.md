@@ -34,8 +34,4 @@ This is a command-line based Movie Ticket Booking System developed in Java. It a
 - Add email notifications for bookings
 - Add a rating system for movies
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-MIT
+## Thank You
